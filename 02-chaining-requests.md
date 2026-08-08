@@ -45,5 +45,6 @@ The value from each response is automatically passed to the next request without
 
 ## Result
 
-The three requests can now be executed in sequence: Pokemon → Species → Evolution Chain
+The three requests can now be executed in sequence: Pokemon → Species → Evolution Chain.
+
 Changing the Pokémon in the first request automatically updates the subsequent requests through the collection variables.
